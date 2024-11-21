@@ -3,3 +3,4 @@
 *.JPEG
 *.JPG
 *.pdf
+/target/
